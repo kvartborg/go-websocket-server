@@ -1,0 +1,16 @@
+{
+  "name": "go-websocket-server",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "client/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faye-websocket": "^0.11.1"
+  }
+}
